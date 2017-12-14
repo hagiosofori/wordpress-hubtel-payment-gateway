@@ -21,8 +21,6 @@ To begin, you need to signup for a merchant account first. [Click here](https://
 * Be notified via email whenever payment is received on your site.
 * Trading in foreign currency? No problem. It automatically convert USD, GBP, EUR, NGN to GHS, before sending to Hubtel.
 
-PS: You’ll be given a 30-Day trial period, afterwards you will be need to purchase a premium version.
-
 
 == Installation ==
 
