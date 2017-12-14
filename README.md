@@ -1,11 +1,11 @@
 === Hubtel Payment ===
-Contributors: Alvin Ofori
-Tags: woocommerce, ecommerce, e commerce, e-commerce, payment gateway, payment, mastercard, donation, payment button, visa, master card, mobilemoney, mobile money, mtn, airtel, ghana, mtn mobile money, airtel money, vodafone cash, tigo
-Requires at least: 3.0.1
-Tested up to: 4.8
-Stable tag: 1.2
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Contributors: Dela Akin, Alvin Ofori
+* Tags: woocommerce, ecommerce, e commerce, e-commerce, payment gateway, payment, mastercard, donation, payment button, visa, master card, mobilemoney, mobile money, mtn, airtel, ghana, mtn mobile money, airtel money, vodafone cash, tigo
+* Requires at least: 3.0.1
+* Tested up to: 4.8
+* Stable tag: 1.2
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 == Description ==
